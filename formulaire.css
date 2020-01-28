@@ -1,0 +1,15 @@
+body{
+    background-color: #7FFFD4;
+    width: 35%;
+    margin: 0 auto;
+}
+.style-ipt{
+    height: 30px;
+    width: 400px;
+    text-align: center;
+    border-radius: 6px;
+}
+.cmmt{
+    border-radius: 6px;
+    width: 400px;
+}
